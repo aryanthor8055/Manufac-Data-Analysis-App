@@ -46,8 +46,8 @@ city,fuelType,year,month,rsp
 
 ## Deployment URL
 
-To be added after deployment.
+[Fuel Price Analytics Dashboard](https://manufac-data-analysis-app.vercel.app/)
 
 ## Dashboard Screenshot
 
-To be added after deployment screenshot capture.
+![Fuel Price Analytics Dashboard](./public/dashboard-screenshot.png)
